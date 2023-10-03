@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\bin\Debug\net6.0-windows\Master CGPA.exe
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\bin\Debug\net6.0-windows\Master CGPA.deps.json
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\bin\Debug\net6.0-windows\Master CGPA.runtimeconfig.json
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\bin\Debug\net6.0-windows\Master CGPA.dll
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\bin\Debug\net6.0-windows\Master CGPA.pdb
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master_CGPA.Form1.resources
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master_CGPA.Properties.Resources.resources
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.AssemblyInfo.cs
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.dll
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\refint\Master CGPA.dll
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.pdb
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\Master CGPA.genruntimeconfig.cache
+C:\Users\USER\source\repos\Master CGPA\Master CGPA\obj\Debug\net6.0-windows\ref\Master CGPA.dll
